@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tamil Iniyan S
+          Iniyan
         </a>
       </header>
     </div>
